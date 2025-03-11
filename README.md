@@ -1,3 +1,4 @@
-PROJET NUMERO 2 DE MA FORMATION SUR OPEN CLASSROOM
-LE BUT ES TD'AIDER MON ENTREPRISE ACADEMY A SE DEVELOPPER A L'INTERNATIONALE
-EN ETUDIANT LES DONNEES DE LA BANQUE MONDIALE EN RELATION AVEC L'EDUCATION
+Projet numéro 2 de ma formation OpenClassrooms
+
+Le but est d'aider l'entreprise ACADEMY à se développer à l'internationale
+en étudiant les données de la banque mondiale
